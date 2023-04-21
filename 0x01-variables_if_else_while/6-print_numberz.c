@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - entry point
+ * main - Entry point
  * description: 'prints all single digit numbers of base ten'
  * return: always 0
  */
@@ -13,5 +13,5 @@ int main(void)
 		putchar(n + 48);
 	}
 	putchar('\n');
-		return (0);
+	return (0);
 }
