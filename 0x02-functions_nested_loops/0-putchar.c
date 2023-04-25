@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 /**
  * main - Entry point
  * description: 'a program that prints a sentence'
@@ -15,5 +15,5 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-		return (0);
+	return (0);
 }
